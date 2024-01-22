@@ -1,0 +1,10 @@
+
+classes:
+  feat:  "A new feature"
+  fix:   "A bug fix"
+  docs:  "Documentation only changes"
+scopes:
+  - web
+  - api
+  - docs
+                
